@@ -6,5 +6,5 @@
 
 
 
-if u want to test is just download the project then open the index file 
+if u want to test it just download the project then open the index file with any browser
 and make some changes
