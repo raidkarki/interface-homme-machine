@@ -1,0 +1,76 @@
+
+body{
+    background-image: url('../images/sky.jpg'); 
+   background-size: cover;
+  
+}
+
+
+#exercicebox{
+    width: 600px;
+    height: 500px;
+   margin: auto;
+   margin-top: 65px;
+   text-align: center;
+    background-image: url(../images/GameBG14.jpg);
+    background-color: royalblue;
+    border-radius: 2%;
+
+}
+.startbox{
+padding-top: 40%;
+}
+
+.none{display: none;}
+
+.a{
+    background-image: url(../images/index.jpg);
+    background-size: cover;
+}
+.b{background-image: url(../images/b.jpg);
+background-size: cover;}
+.c{background-image: url(../images/c.jpg);
+    background-size: cover;}
+.d{background-image: url(../images/d.jpg);
+    background-size: cover;}
+.e{background-image: url(../images/e.jpg);
+    background-size: cover;}
+.f{background-image: url(../images/f.jpg);
+    background-size: cover;}
+.g{background-image: url(../images/gg.jpg);
+    background-size: cover;}
+.h{background-image: url(../images/h.jpg);
+    background-size: cover;}
+.i{background-image: url(../images/ii.jpg);
+    background-size: cover;}
+.btnbt{
+height:100px;
+width: 70px;
+left: 30px;
+border-radius: 5%;
+
+
+}
+.btnbox{
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    
+}
+.h1div{
+    font-family: 'Dancing Script', cursive;
+   
+}
+
+.pressed{
+    
+    box-shadow: 0px 0px 10px 10px #2af502;
+        
+      
+
+}
+.pressed1{
+    box-shadow: 0px 0px 10px 10px #ff0202;
+
+}

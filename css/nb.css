@@ -1,0 +1,122 @@
+*{ margin: 0px; padding: 0px; border: 0px; }
+body{
+    background-image: url('../images/sky.jpg'); 
+   background-size: cover;
+}
+.abcimage{
+    background-color: transparent;
+
+}
+#pageid{
+height: 100%;
+width: 100%;
+text-align: center;
+
+
+
+
+}
+#header{
+    height: 80px;
+    text-align: center;
+    width: 95%;
+    
+}
+.homediv{
+    width: 120px;
+    height: 80px;
+    float:right;
+    padding-top: 10px;
+}.nbrbtn{
+    height: 190px;
+    width: 115px;
+    margin-left: 60px;
+    margin-top: 30px;
+    background-color: transparent;
+    border-radius: 5%;
+    border:  yellow;
+    }
+    .pt{
+        padding-top: 20px;
+    }
+    .learnumb{
+        width: 80%;
+        height: 150px;
+        background-image: url('../images/nb.jpg');
+        background-size: cover;
+        border-radius: 10% 10% 0% 0%;
+        margin: auto;
+    }
+    .one{
+        background-image: url(../images/1.png);
+        background-size: cover;
+    }
+    .tow{
+        background-image: url(../images/2.png);
+        background-size: cover;
+    }
+    .three{
+        background-image: url(../images/3.png);
+        background-size: cover;
+    }
+    .four{
+        background-image: url(../images/4.png);
+        background-size: cover;
+    }
+    .five{
+        background-image: url(../images/5.png);
+        background-size: cover;
+    }
+    .six{
+        background-image: url(../images/6.png);
+        background-size: cover;
+    }
+    .seven{
+        background-image: url(../images/7.png);
+        background-size: cover;
+    }
+    .eight{
+        background-image: url(../images/8.png);
+        background-size: cover;
+    }
+    .letterbox{
+    
+        margin-left: 30px;
+        
+        }
+.abclearn{
+   border-radius: 10%;
+    margin: auto;
+    width: 90%;
+    height: 800px;
+            
+        
+        
+    /*background-image: url('images/PHONICS-1-A3.png'); */
+        
+}
+    .nine{
+        background-image: url(../images/9.png);
+        background-size: cover;
+    }
+    .ten{
+        background-image: url(../images/10.png);
+        background-size: cover;
+    }
+    .allnb{
+        background-image: url(../images/pluto-599.png);
+        background-size: cover;
+    }
+    #allnbr{
+        border-radius: 80%;
+        background-color: white;
+    }
+    
+    .pressed {
+        box-shadow: 0px 0px 10px 10px #c8f502;
+        
+      }
+      .pressed1 {
+        box-shadow: 0px 0px 10px 10px #f16ef1;
+        
+      }

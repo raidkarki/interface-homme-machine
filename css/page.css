@@ -1,0 +1,165 @@
+*{ margin: 0px; padding: 0px; border: 0px; }
+body{
+    background-image: url('../images/sky.jpg'); 
+   background-size: cover;
+  
+}
+.abcimage{
+    background-color: transparent;
+
+}
+#pageid{
+height: 100%;
+width: 100%;
+text-align: center;
+
+
+
+
+}
+#header{
+    height: 80px;
+    text-align: center;
+    width: 95%;
+    
+}
+.homediv{
+    width: 120px;
+    height: 80px;
+    float:right;
+    padding-top: 10px;
+}
+.abclearn{
+    border-radius: 10%;
+    margin: auto;
+    width: 90%;
+    height: 800px;
+    
+
+
+/* background-image: url('images/PHONICS-1-A3.png'); */
+
+}
+.letterbtn{
+height: 190px;
+width: 115px;
+margin-left: 6px;
+margin-top: 10px;
+background-color: transparent;
+border-radius: 5%;
+border:  yellow;
+
+
+
+
+
+}
+#allab{
+    border-radius: 80%;
+    background-color: white;
+}
+
+.pt{
+    padding-top: 20px;
+}
+.learndiv{
+    width: 80%;
+    height: 150px;
+    background-image: url('../images/head.png');
+    background-size: cover;
+    border-radius: 10% 10% 0% 0%;
+    display: inline-block;
+    margin: auto;
+   
+}
+.a{
+    background-image: url(../images/a.png);
+    background-size: cover;
+}
+.b{background-image: url(../images/b.png);
+    background-size: cover;}
+.c{background-image: url(../images/c.png);
+    background-size: cover;}
+.d{background-image: url(../images/d.png);
+    background-size: cover;}
+.e{background-image: url(../images/e.png);
+    background-size: cover;}
+.f{background-image: url(../images/f.png);
+    background-size: cover;}
+.g{background-image: url(../images/g.png);
+    background-size: cover;}
+.h{background-image: url(../images/h.png);
+    background-size: cover;}
+.i{background-image: url(../images/i.png);
+    background-size: cover;}
+.j{background-image: url(../images/j.png);
+    background-size: cover;}
+.k{background-image: url(../images/k.png);
+    background-size: cover;}
+.l{background-image: url(../images/l.png);
+    background-size: cover;}
+.m{background-image: url(../images/m.png);
+    background-size: cover;}
+.n{background-image: url(../images/n.png);
+    background-size: cover;}
+.o{background-image: url(../images/o.png);
+    background-size: cover;}
+.p{background-image: url(../images/p.png);
+    background-size: cover;}
+.q{background-image: url(../images/q.png);
+    background-size: cover;}
+.r{background-image: url(../images/r.png);
+    background-size: cover;}
+.s{background-image: url(../images/s.png);
+    background-size: cover;}
+.t{background-image: url(../images/t.png);
+    background-size: cover;}
+.u{background-image: url(../images/u.png);
+    background-size: cover;}
+.v{background-image: url(../images/v.png);
+    background-size: cover;}
+.w{background-image: url(../images/w.png);
+    background-size: cover;}
+.x{background-image: url(../images/x.png);
+    background-size: cover;}
+.y{background-image: url(../images/y.png);
+    background-size: cover;}
+.z{background-image: url(../images/z.png);
+    background-size: cover;}
+    .allabc{
+        background-image: url(../images/pluto-599.png);
+        background-size: cover;
+    }
+
+
+    
+    .pressed {
+        box-shadow: 0px 0px 10px 10px #c8f502;
+        
+      }
+      .pressed1 {
+        box-shadow: 0px 0px 10px 10px #f16ef1;
+        
+      }
+      .trophy{
+
+        width: 110px;
+        left: 40px;
+        display: inline-block;
+        /* padding-left: 50px; */
+      }
+      .flash:hover {
+        opacity: 1;
+        -webkit-animation: flash 1s;
+        animation: flash 1s;
+      }
+      
+      @-webkit-keyframes flash {
+        0% {  opacity: .3;  }
+        100% { opacity: 1; }
+      }
+      @keyframes flash {
+        0% { opacity: .3; }
+        100% { opacity: 1;  }
+      }
+      

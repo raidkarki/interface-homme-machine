@@ -1,0 +1,49 @@
+*{ margin: 0px; padding: 0px; border: 0px; }
+
+
+body{
+    background-image: url('../images/back_login.jpg'); 
+   background-size: cover;
+}
+#loginpage{
+    height: 700px;
+    
+    text-align: center;
+    
+    padding:auto  ;
+    padding-top: 20% ;
+}
+
+
+
+.carousel{
+    height: 100%;
+}
+.carousel-inner{
+
+    height: 100%;
+}
+.carousel-item{
+    height: 100%;
+    
+}
+.carousel-control-prev{
+     padding: auto;
+}
+.flash:hover {
+    opacity: 1;
+    -webkit-animation: flash 1s;
+    animation: flash 1s;
+  }
+  
+  @-webkit-keyframes flash {
+    0% {  opacity: .3;  }
+    100% { opacity: 1; }
+  }
+  @keyframes flash {
+    0% { opacity: .3; }
+    100% { opacity: 1;  }
+  }
+
+
+
